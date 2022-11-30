@@ -1,2 +1,4 @@
 .vscode/
 .includes/
+*.pdf
+*.xlsx
